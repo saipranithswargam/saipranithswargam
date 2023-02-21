@@ -21,3 +21,4 @@
 <h2> GitHub Stats: </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=saipranithswargam&theme=dark&show_icons=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipranithswargam&theme=dark&layout=compact">
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saipranithswargam&amp;theme=dark" ></a></p>
