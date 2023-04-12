@@ -19,6 +19,7 @@
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"/>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"/>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
 <img height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <h2> GitHub Stats: </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=saipranithswargam&theme=dark&show_icons=true&count_private=true" />
